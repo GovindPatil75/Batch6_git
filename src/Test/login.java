@@ -6,6 +6,7 @@ public class login {
 		System.out.println("Hello");
 		System.out.println("Test");
 		
+		int a=10;
 
 	}
 
